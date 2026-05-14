@@ -25,7 +25,7 @@ The workflow covers the complete ML pipeline from raw dataset to final model eva
 #Submitted by
 Abikrishnan M S
 Lubaba sadiya
-usma
+Usma Hasseb
 # Dataset Information
 
 **Dataset:** `water_potability.csv`
