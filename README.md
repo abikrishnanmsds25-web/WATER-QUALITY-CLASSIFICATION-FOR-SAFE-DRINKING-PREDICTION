@@ -234,6 +234,29 @@ Possible future enhancements:
 * Real-time water quality prediction API
 * Model explainability using SHAP
 
+# DEPLOYMENT
+
+# 💧 AquaGuard — Water Quality Classification using Machine Learning
+
+AquaGuard is an AI-powered Streamlit web application that predicts whether water is safe for drinking using multiple Machine Learning classification models.
+
+The application performs:
+- Water potability prediction
+- Exploratory Data Analysis (EDA)
+- ROC curve analysis
+- Feature importance visualization
+- Model comparison dashboard
+
+Built using:
+- Streamlit
+- Scikit-learn
+- XGBoost
+- Imbalanced-learn (SMOTE)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
 ---
 
 # Author
