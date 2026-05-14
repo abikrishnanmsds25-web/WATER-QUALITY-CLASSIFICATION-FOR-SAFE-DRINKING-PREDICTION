@@ -256,8 +256,29 @@ Built using:
 - NumPy
 - Matplotlib
 - Seaborn
+#  Features
+
+ Real-time water quality prediction  
+ 7 Machine Learning models  
+ Beautiful dark-themed dashboard  
+ ROC curve comparison  
+ Feature importance analysis  
+ Dataset exploration  
+ Interactive sliders for water sample testing  
+SMOTE balancing for imbalanced dataset handling  
 
 ---
+
+#  Machine Learning Models Used
+
+- Random Forest
+- XGBoost
+- Support Vector Machine (SVM)
+- AdaBoost
+- K-Nearest Neighbors (KNN)
+- Decision Tree
+- Logistic Regression
+
 
 # Author
 
