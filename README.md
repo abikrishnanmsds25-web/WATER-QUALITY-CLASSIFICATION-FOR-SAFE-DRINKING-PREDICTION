@@ -22,10 +22,13 @@ This project uses physicochemical properties of water samples to classify water 
 The workflow covers the complete ML pipeline from raw dataset to final model evaluation.
 
 ---
-# Submitted by
-*Abikrishnan M S
-*Lubaba sadiya
-*Usma Hasseb
+##  Submitted By
+
+| Team Members |
+|---|
+| Abikrishnan M S |
+| Lubaba Sadiya |
+| Usma Hasseb |
 # Dataset Information
 
 **Dataset:** `water_potability.csv`
