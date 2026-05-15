@@ -22,7 +22,7 @@ This project uses physicochemical properties of water samples to classify water 
 The workflow covers the complete ML pipeline from raw dataset to final model evaluation.
 
 ---
-#Submitted by
+# Submitted by
 Abikrishnan M S
 Lubaba sadiya
 Usma Hasseb
@@ -282,7 +282,8 @@ SMOTE balancing for imbalanced dataset handling
 - Decision Tree
 - Logistic Regression
 
-
+# Deploymeny link
+https://water-quality-classification-for-safe-drinking-prediction-gcnh.streamlit.app/
 # Author
 
 Developed as a Machine Learning classification project for water quality prediction.
