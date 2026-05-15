@@ -23,9 +23,9 @@ The workflow covers the complete ML pipeline from raw dataset to final model eva
 
 ---
 # Submitted by
-Abikrishnan M S
-Lubaba sadiya
-Usma Hasseb
+*Abikrishnan M S
+*Lubaba sadiya
+*Usma Hasseb
 # Dataset Information
 
 **Dataset:** `water_potability.csv`
@@ -282,7 +282,7 @@ SMOTE balancing for imbalanced dataset handling
 - Decision Tree
 - Logistic Regression
 
-# Deploymeny link
+# Deployment link
 https://water-quality-classification-for-safe-drinking-prediction-gcnh.streamlit.app/
 # Author
 
